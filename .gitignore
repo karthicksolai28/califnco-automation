@@ -1,0 +1,6 @@
+venv/
+.env
+serviceAccountKey.json
+output/
+output.jpg
+__pycache__/
